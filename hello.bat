@@ -1,1 +1,1 @@
-echo "Hello World %date:%time"
+echo "Hello World: %date:%time"
